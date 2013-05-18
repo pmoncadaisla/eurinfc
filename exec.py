@@ -1,0 +1,3 @@
+from nfc import *
+
+execute()
